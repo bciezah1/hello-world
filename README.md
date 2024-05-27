@@ -5,4 +5,6 @@ this tutorial focus on git and github
 
 This repository is built step by step in the tutorial.
 
+creating a branch to push to github
+
 it now include steps from github
